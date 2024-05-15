@@ -4,7 +4,7 @@
     "sites": [
       {
         "key": "豆瓣",
-        "name": "📚官方公众号：TVBox",
+        "name": "JiaMin专用",
         "type": 3,
         "api": "csp_Douban",
         "searchable": 0
