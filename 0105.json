@@ -30,17 +30,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "视觉",
-      "name": "👓视觉┃多线",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
      {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
@@ -71,18 +60,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "糯米",
-      "name": "🍙糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/nmys.json"
-    },
-    {
+     {
       "key": "小点",
       "name": "💥小点┃多线",
       "type": 3,
@@ -91,49 +69,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-    },
-    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-     {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱┃P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/jp.js"
-    },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
     },
      {
       "key": "低端",
@@ -144,36 +79,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "🌟立播┃无广",
-      "type": 3,
-      "api": "csp_Libvio",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/"
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
     },
     {
       "key": "Dm84",
@@ -215,11 +120,95 @@
       "quickSearch": 1,
       "changeable": 0
     },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+     {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "视觉",
+      "name": "👓视觉┃多线",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "Lib",
+      "name": "🌟立播┃无广",
+      "type": 3,
+      "api": "csp_Libvio",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+     {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+     {
+      "key": "贱贱",
+      "name": "🐭贱贱┃P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/jp.js"
+    },
      {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/huya2.js",
       "style": {
         "type": "rect",
@@ -234,7 +223,7 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -249,7 +238,7 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -259,7 +248,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./js/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -268,6 +257,31 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "糯米",
+      "name": "🍙糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
+    },
+      {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "夸搜",
@@ -282,20 +296,6 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
-    },
-     {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./json/bilibili.json"
     }
   ],
   "doh": [
