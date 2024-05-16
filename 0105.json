@@ -133,8 +133,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/jp.js"
     }
   ],
   "doh": [
