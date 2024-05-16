@@ -3,8 +3,8 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🌕全接口智能过滤广告",
+      "key": "豆瓣",
+      "name": "🌕JiaMin",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
