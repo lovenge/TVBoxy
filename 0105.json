@@ -1,6 +1,20 @@
 {
   "spider": "https://mirror.ghproxy.com/https://github.com/TANG0105/TVBox/blob/main/fty.jar?raw=true;md5;a4def97541fafa5558b6182c1326c9b0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "lives": [
+    {
+      "name": "XIUTAN",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "./lib/iptv.txt"
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "./lib/iptv.txt",
+      "playerType": 1
+    }
+  ],
   "sites": [
     {
       "key": "豆瓣",
@@ -296,20 +310,6 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
-    }
-  ],
-   "lives": [
-    {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "./lib/iptv.txt"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "./lib/iptv.txt",
-      "playerType": 1
     }
   ],
   "doh": [
