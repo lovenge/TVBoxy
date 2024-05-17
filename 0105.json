@@ -33,8 +33,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/七新影视.json"
-    }
+      "ext": "./json/七新影视.json",
+      "jar": "./jar/HeChengChaXiu.jar"
+    },
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
