@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "./lib/token.txt",
+        "aliToken": "./key/token.txt",
         "quarkCookie": "./lib/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
