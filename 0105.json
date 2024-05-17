@@ -37,13 +37,6 @@
       "jar": "https://gitee.com/jiamin168/tvbox/raw/master/jar/HeChengChaXiu.jar"
     },
     {
-      "key": "drpy_js_360影视",
-      "name": "⚽360┃影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视.js"
-    },
-    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
@@ -51,6 +44,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "天天",
+      "name": "💡天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8"
     },
     {
       "key": "酷看",
