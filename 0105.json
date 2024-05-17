@@ -298,6 +298,20 @@
       }
     }
   ],
+   "lives": [
+    {
+      "name": "XIUTAN",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "./lib/iptv.txt"
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "./lib/iptv.txt",
+      "playerType": 1
+    }
+  ],
   "doh": [
     {
       "name": "Google",
@@ -340,20 +354,6 @@
         "9.9.9.9",
         "149.112.112.112"
       ]
-    }
-  ],
-   "lives": [
-    {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "./lib/iptv.txt"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "./lib/iptv.txt",
-      "playerType": 1
     }
   ]
 }
