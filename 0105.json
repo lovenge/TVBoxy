@@ -45,7 +45,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-       "jar": "http://稳定接口.tvbox.中国/jar.php;md5;f154ba973ace6562b2e82815952b089e"
+       "jar": "http://稳定接口.tvbox.中国/json/玩偶哥哥.php"
     },
     {
       "key": "七新",
