@@ -37,6 +37,13 @@
       "jar": "./jar/HeChengChaXiu.jar"
     },
     {
+      "key": "drpy_js_360影视",
+      "name": "🧡360┃影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/360影视.js"
+    },
+    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
