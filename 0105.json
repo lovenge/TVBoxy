@@ -229,14 +229,16 @@
       "changeable": 0
     },
     {
-      "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
+      "key": " zxzb2",
+      "name": "📺网红┃直播2",
       "type": 3,
-      "api": "csp_Yj1211",
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 0
+      "api": "./lib/ddrpy2.m.js",
+      "ext": "./lib/JustLive.js",
+      "gridview": "0-0-H",
+      "style": {
+        "type": "rect",
+        "ratio": 1.68
+      }
     },
      {
       "key": "虎牙直播js",
