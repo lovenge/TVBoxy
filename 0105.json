@@ -342,23 +342,17 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "多线ITV",
-      "type": 0,
-      "url": "./lib/itvlist.m3u",
-      "playerType": 1
-    },
+   "lives": [
     {
       "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "./lib/xiutan.m3u"
+      "url": "./lib/iptv.txt"
     },
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./lib/iptv.txt",
       "playerType": 1
     }
   ]
