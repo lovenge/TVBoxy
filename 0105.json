@@ -292,7 +292,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "ext":"./jar/custom_spider.jar"
     },
     {
       "key": "虎牙直播js",
