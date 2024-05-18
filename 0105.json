@@ -68,6 +68,22 @@
       "jar":"./jar/custom_spider.jar"
     },
     {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🚀腾云|驾雾(XYQ)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/腾云驾雾.js",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🍐奇珍|异兽(XYQ)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/奇珍异兽.js",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "七新",
       "name": "🏆七新┃2K",
       "type": 3,
