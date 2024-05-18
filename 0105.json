@@ -328,6 +328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "ext": "公众号:影视资源站",
       "jar":"./jar/YSZYZ.jar"
     },
     {
