@@ -58,7 +58,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/云盘论坛.json"
+      "ext": "./json/云盘论坛.json",
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
       "key": "七新",
