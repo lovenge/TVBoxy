@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/jiamin168/tvbox/raw/master/jar/fty.jar;md5;a4def97541fafa5558b6182c1326c9b0",
+  "spider": "./fty.jar;md5;a4def97541fafa5558b6182c1326c9b0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [
     {
@@ -57,7 +57,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/七新影视.json",
-      "jar": "https://gitee.com/jiamin168/tvbox/raw/master/jar/HeChengChaXiu.jar"
+      "jar": "./jar/HeChengChaXiu.jar"
     },
     {
       "key": "苹果",
