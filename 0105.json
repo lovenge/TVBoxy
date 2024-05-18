@@ -35,7 +35,7 @@
       "changeable": 0,
       "ext": "64c42f087c4344249204dd0f1b94b610+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-      {
+    {
       "key": "云盘登录",
       "name": "🔐TVBox|云盘登录",
       "type": 3,
@@ -45,8 +45,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-       "jar": "./jar/jar.php"
-      },
+      "jar": "./jar/jar.php"
+    },
     {
       "key": "七新",
       "name": "🏆七新┃2K",
@@ -95,7 +95,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
       "key": "原创",
       "name": "☀原创┃无广",
       "type": 3,
@@ -137,7 +137,7 @@
       "filterable": 1,
       "changeable": 0
     },
-     {
+    {
       "key": "热播",
       "name": "📺热播┃多线",
       "type": 3,
@@ -171,7 +171,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/jp.js"
     },
-     {
+    {
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
@@ -180,7 +180,7 @@
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-     {
+    {
       "key": "视觉",
       "name": "👓视觉┃多线",
       "type": 3,
@@ -219,7 +219,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
       "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
@@ -240,7 +240,7 @@
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
     },
-     {
+    {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
@@ -249,7 +249,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
@@ -271,7 +271,7 @@
         "ratio": 1.68
       }
     },
-     {
+    {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
@@ -286,7 +286,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-     {
+    {
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
