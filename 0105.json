@@ -60,6 +60,18 @@
       "jar": "./jar/HeChengChaXiu.jar"
     },
     {
+      "key": "csp_JianPian",
+      "name": "🔨荐片|XYQ",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://112.124.0.131:20000",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
@@ -67,6 +79,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🐞厂长|资源(XYQ)",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.czys.top",
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "天天",
