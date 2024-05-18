@@ -322,13 +322,13 @@
     },
     {
       "key": "xifan",
-      "name": "动漫|稀饭",
+      "name": "📼动漫|稀饭",
       "type": 3,
       "api": "csp_Xifan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar":""
+      "jar":"./jar/YSZYZ.jar"
     },
     {
       "key": "Dm84",
