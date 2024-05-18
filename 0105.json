@@ -251,6 +251,17 @@
       "changeable": 1
     },
     {
+      "key": "csp_Bili短剧",
+      "name": "🐞哔哩 | 短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/Bili短剧.json",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
