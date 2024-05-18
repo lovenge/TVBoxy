@@ -38,17 +38,6 @@
       "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
-      "key": "push_agent",
-      "name": "💾推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/alitoken.txt",
-      "jar":"./jar/custom_spider.jar"
-    },
-    {
       "key": "云盘论坛",
       "name": "📀云盘｜论坛",
       "type": 3,
