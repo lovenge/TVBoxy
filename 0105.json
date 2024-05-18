@@ -343,7 +343,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/哔哩直播.js"
+      "ext": "./js/哔哩直播.js"
     },
     {
       "key": "Bili",
