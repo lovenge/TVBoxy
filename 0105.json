@@ -252,7 +252,7 @@
     },
     {
       "key": "csp_Bili短剧",
-      "name": "🐞哔哩 | 短剧",
+      "name": "🐞哔哩|短剧",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -285,7 +285,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "📡JustLive | XYQ",
+      "name": "📡JustLive|XYQ",
       "type": 3,
       "api": "csp_Yj1211",
       "playerType": 1,
@@ -334,6 +334,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "JS哔哩直播",
+      "name": "📺哔哩|直播(XYQ)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/哔哩直播.js"
     },
     {
       "key": "Bili",
