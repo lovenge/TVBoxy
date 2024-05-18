@@ -58,7 +58,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
       "key": "七新",
