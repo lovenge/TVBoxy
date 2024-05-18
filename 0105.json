@@ -102,6 +102,36 @@
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8"
     },
     {
+      "key": "csp_Kuaikan",
+      "name": "💡快看|影视(XYQ)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"./jar/custom_spider.jar"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧|XYQ",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub|XYQ",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
