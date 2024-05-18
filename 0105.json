@@ -321,6 +321,16 @@
       "jar":"./jar/custom_spider.jar"
     },
     {
+      "key": "xifan",
+      "name": "动漫|稀饭",
+      "type": 3,
+      "api": "csp_Xifan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar":""
+    },
+    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
