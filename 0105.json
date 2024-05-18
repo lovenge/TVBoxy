@@ -524,7 +524,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
+        "quarkCookie": "http://127.0.0.1:9978/file/TVBox/quarkCookie.txt",
         "from": "4k|auto|fhd"
       }
     }
