@@ -45,7 +45,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
-      "jar": "./jar/jar.php"
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
       "key": "七新",
