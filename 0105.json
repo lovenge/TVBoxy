@@ -273,6 +273,17 @@
       }
     },
     {
+      "key": "csp_Yj1211",
+      "name": "📡JustLive| XYQ",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
@@ -289,7 +300,7 @@
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯虎牙|直播(XYQH)",
+      "name": "🐯虎牙|直播(XYQ)",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
