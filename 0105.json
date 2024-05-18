@@ -360,6 +360,17 @@
       "ext": "./json/bilibili.json"
     },
     {
+      "key": "csp_Bili",
+      "name": "🐞哔哩|综合(XYQ)",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/Bili.json",
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
