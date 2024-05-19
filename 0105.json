@@ -57,7 +57,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/云盘资源.json",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "drpy_js_百忙无果",
@@ -65,7 +65,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "drpy_js_腾云驾雾",
@@ -73,7 +73,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/腾云驾雾.js",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -81,7 +81,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "drpy_js_优酷",
@@ -89,7 +89,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/优酷.js",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "七新",
@@ -112,7 +112,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://112.124.0.131:20000",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "苹果",
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.czys.top",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "天天",
@@ -152,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar":"./jar/custom_spider.jar"
+       "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "csp_Xunlei8",
@@ -162,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "csp_SeedHub",
@@ -172,7 +172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "csp_Mp4Mov",
@@ -182,7 +182,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "酷看",
@@ -318,7 +318,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "xifan",
@@ -388,7 +388,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./json/Bili短剧.json",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "聚短视频js",
@@ -421,7 +421,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "虎牙直播js",
@@ -447,7 +447,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./json/虎牙直播.json",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "斗鱼js",
@@ -497,7 +497,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/Bili.json",
-      "jar":"./jar/custom_spider.jar"
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "有声小说js",
