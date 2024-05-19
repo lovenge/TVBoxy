@@ -61,13 +61,24 @@
     },
     {
       "key": "土豆网盘",
-      "name": "📀云盘｜土豆",
+      "name": "📀云盘|土豆",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/土豆网盘.json",
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
+    },
+    {
+      "key": "多多影音",
+      "name": "云盘｜多多",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/多多影音.json",
       "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
