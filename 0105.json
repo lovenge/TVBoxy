@@ -107,6 +107,22 @@
       "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
+      "key": "夸克玩偶弹幕",
+      "name": "👻玩偶|夸克",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "👻玩偶|XYQ",
       "type": 3,
