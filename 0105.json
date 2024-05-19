@@ -27,7 +27,7 @@
     },
     {
       "key": "云盘登录",
-      "name": "🔐TVBox|阿里云盘登录",
+      "name": "🔐TVBox|阿里云盘登录1",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
