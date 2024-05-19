@@ -81,7 +81,7 @@
       "changeable": 0,
       "ext": {
         "aliToken": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "quarkCookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
