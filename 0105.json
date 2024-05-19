@@ -39,7 +39,7 @@
     },
     {
       "key": "玩偶弹幕",
-      "name": "弹幕｜玩偶",
+      "name": "玩偶|弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -52,6 +52,17 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶|XYQ",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩偶哥哥.json",
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
       "key": "云盘论坛",
