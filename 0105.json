@@ -6,13 +6,9 @@
       "name": "IPTV6",
       "type": 0,
       "url": "./lib/iptv.txt",
-      "playerType": 1
-    },
-    {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "./lib/xiutan.m3u"
+      "playerType": 1,
+       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [
