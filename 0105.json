@@ -38,20 +38,26 @@
       "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
-      "key": "玩偶弹幕",
-      "name": "👻玩偶|弹幕",
+      "key": "云盘论坛",
+      "name": "📀云盘｜论坛",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://www.wogg.link",
-        "danmu": true
-      },
-      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+      "ext": "./json/云盘论坛.json",
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
+    },
+    {
+      "key": "csp_XYQHikerAL_云盘资源",
+      "name": "📀云盘(搜索)|XYQ",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/云盘资源.json",
+      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
     },
     {
       "key": "夸克团长弹幕",
@@ -85,26 +91,20 @@
       "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
-      "key": "云盘论坛",
-      "name": "📀云盘｜论坛",
+      "key": "玩偶弹幕",
+      "name": "👻玩偶|弹幕",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/云盘论坛.json",
-      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
-    },
-    {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "📀云盘(搜索)|XYQ",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/云盘资源.json",
-      "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://www.wogg.link",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
       "key": "玩偶哥哥",
