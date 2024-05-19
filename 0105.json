@@ -27,14 +27,14 @@
     },
     {
       "key": "云盘登录",
-      "name": "🔐TVBox|阿里云盘登录1",
+      "name": "🔐TVBox|阿里云盘登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt",
       "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
