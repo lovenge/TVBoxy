@@ -478,13 +478,22 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
+      "key": "上头短剧",
+      "name": "上头短剧",
       "type": 3,
-      "api": "csp_Djuu",
+      "api": "csp_Duanju",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 0,
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+    },
+    {
+      "key": "无忧短剧",
+      "name": "💕无忧|短剧",
+      "type": 3,
+      "api": "csp_Duanj",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
       "key": "csp_Bili短剧",
