@@ -69,15 +69,20 @@
       "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶|XYQ",
+      "key": "夸克土豆弹幕",
+      "name": "夸克｜土豆",
       "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
+      "api": "csp_Wobg",
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
-      "ext": "./json/玩偶哥哥.json",
-      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
     },
     {
       "key": "云盘论坛",
@@ -100,6 +105,17 @@
       "filterable": 1,
       "ext": "./json/云盘资源.json",
       "jar":"./jar/custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶|XYQ",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/玩偶哥哥.json",
+      "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
       "key": "土豆网盘",
