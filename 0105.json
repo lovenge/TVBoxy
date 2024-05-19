@@ -38,6 +38,19 @@
       "jar": "./jar/spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
     },
     {
+      "key": "配置中心",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
+    },
+    {
       "key": "云盘论坛",
       "name": "📀云盘｜论坛",
       "type": 3,
